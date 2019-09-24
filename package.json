@@ -2,7 +2,7 @@
   "name": "untitled",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yakovenchuk13/binary_search/issues"
   },
-  "homepage": "https://github.com/yakovenchuk13/binary_search#readme"
+  "homepage": "https://github.com/yakovenchuk13/binary_search#readme",
+  "dependencies": {
+    "@types/node": "^12.7.7"
+  }
 }
